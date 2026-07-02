@@ -9,7 +9,7 @@ class Solution {
         int longest = 0;
 
         for (int num : set) {
-            // Start only if it's the beginning of a sequence
+           
             if (!set.contains(num - 1)) {
                 int current = num;
                 int length = 1;
