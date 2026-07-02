@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0876-middle-of-the-linked-list) |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0796-rotate-string) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
