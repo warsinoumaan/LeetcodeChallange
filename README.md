@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
