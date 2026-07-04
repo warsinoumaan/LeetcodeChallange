@@ -4,7 +4,7 @@ class Solution {
         int count1 = 0, count2 = 0;
         int cand1 = 0, cand2 = 0;
 
-        // Step 1: Find possible candidates
+      
         for (int num : nums) {
 
             if (num == cand1) {
@@ -23,7 +23,6 @@ class Solution {
             }
         }
 
-        // Step 2: Verify the candidates
         count1 = 0;
         count2 = 0;
 
