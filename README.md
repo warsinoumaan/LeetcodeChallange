@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
