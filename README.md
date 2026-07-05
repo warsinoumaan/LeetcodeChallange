@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0169-majority-element) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0013-roman-to-integer) |
 | [0796-rotate-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
