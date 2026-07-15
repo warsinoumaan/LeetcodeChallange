@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0202-happy-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
