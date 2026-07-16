@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
