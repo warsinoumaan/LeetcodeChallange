@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0283-move-zeroes) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0268-missing-number) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Number Theory
 |  |
