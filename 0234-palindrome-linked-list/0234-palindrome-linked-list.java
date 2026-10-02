@@ -49,7 +49,7 @@ private ListNode findMiddle(ListNode head) {
      ListNode rereverseHead  = headSecondhalf;
 
      // compare both halves
-        while (head!= null && headSecondhalf != null) {
+        while ( headSecondhalf != null) {
             if (head.val!=headSecondhalf.val) {
                 return false;
             }
