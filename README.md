@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
@@ -171,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
