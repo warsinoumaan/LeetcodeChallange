@@ -15,12 +15,11 @@ class Solution {
             }
         }
 
-        String str = "";
-        while(!stack.isEmpty()){
+        StringBuilder sb = new StringBuilder();
 
-            str = stack.pop() +str;
-        }
-        
-        return str;
+while (!stack.isEmpty()) {
+    sb.append(stack.pop());
+}
+return sb.reverse().toString();
     }
 }
