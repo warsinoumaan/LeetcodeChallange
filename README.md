@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
