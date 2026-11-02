@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0796-rotate-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
@@ -176,5 +179,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
