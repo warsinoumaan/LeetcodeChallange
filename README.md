@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
