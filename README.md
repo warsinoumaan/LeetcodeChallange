@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0739-daily-temperatures) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
