@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Sorting
 |  |
 | ------- |
