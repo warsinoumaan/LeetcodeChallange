@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0739-daily-temperatures) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1019-next-greater-node-in-linked-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1019-next-greater-node-in-linked-list) |
 ## Data Stream
 |  |
 | ------- |
