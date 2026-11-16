@@ -173,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -193,4 +195,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/warsinoumaan/LeetcodeChallange/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
